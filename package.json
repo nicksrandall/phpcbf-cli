@@ -1,0 +1,19 @@
+{
+  "name": "phpcbf-cli",
+  "version": "1.0.0",
+  "description": "phpcbf with normalized exit codes",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/nicksrandall/phpcbf-cli"
+  },
+  "keywords": [
+    "phpcbf"
+  ],
+  "author": "Nick Randall",
+  "license": "MIT"
+}
