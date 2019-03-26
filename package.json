@@ -2,7 +2,6 @@
   "name": "phpcbf-cli",
   "version": "1.0.1",
   "description": "phpcbf with normalized exit codes",
-  "main": "index.js",
   "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
