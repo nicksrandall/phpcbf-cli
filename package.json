@@ -1,6 +1,6 @@
 {
   "name": "phpcbf-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "phpcbf with normalized exit codes",
   "bin": "index.js",
   "scripts": {
